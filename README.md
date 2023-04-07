@@ -1,2 +1,2 @@
 # credit_card_approval
-In this project, I have built an automatic credit card approval system with the help of several machine laerning algorithmns
+In this project, I have built an automatic credit card approval system with the help of several machine laerning algorithmns. I have manipulated data, if there are any missing entries in the dataset.I performed exploratory data analysis (EDA) on the given dataset. I worked on pre-processing the data before applying machine learning model to the dataset. And finally, I applied machine learning model that can predict if an individual’s application for a credit card will be accepted or not.
